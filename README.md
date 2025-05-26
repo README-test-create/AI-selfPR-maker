@@ -1,5 +1,7 @@
 # AI自己PRメーカー
 
+<img src="./screenshots/logo.png" width="30%" alt="ロゴ">
+
 ## 概要
 
 **AI自己PRメーカー**は、転職活動中の方向けに、AIがあなたの経歴や強みをもとに「自己PR文」を自動で作成してくれるWebアプリです。
